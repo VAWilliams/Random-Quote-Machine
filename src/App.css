@@ -1,0 +1,10 @@
+#quote-box {
+  max-width: 600px;
+  margin: auto;
+  transform: translateY(50%);
+  background-color: white;
+  padding: 30px;
+}
+i { color: white }
+#author { text-align: right }
+#new-quote { float: right }
