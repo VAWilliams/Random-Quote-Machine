@@ -74,7 +74,7 @@ class App extends Component {
         <div>
           <a id="tweet-quote"
             className="btn btn-primary"
-            href="twitter.com/intent/tweet"
+            href="https://twitter.com/intent/tweet"
           ><i className="fa fa-twitter"></i>
           </a>
           <button
